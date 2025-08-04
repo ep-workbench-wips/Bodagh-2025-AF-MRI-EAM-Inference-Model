@@ -1,0 +1,46 @@
+{
+    "num_of_systems": 1,
+    "static_widgets": [
+        {
+            "name": "age_at_ablation",
+            "widget_type": "QDoubleSpinBox",
+            "properties": {
+                "min": 0.0,
+                "max": 100.0,
+                "decimals": 0,
+                "step": 1.0,
+                "value": 60.0
+            }
+        },
+        {
+            "name": "weight",
+            "widget_type": "QDoubleSpinBox",
+            "properties": {
+                "min": 0.0,
+                "max": 1000.0,
+                "decimals": 0,
+                "step": 1.0,
+                "value": 60.0
+            }
+        },
+        {
+            "name": "atrial_ef",
+            "widget_type": "QDoubleSpinBox",
+            "properties": {
+                "min": 0.0,
+                "max": 100.0,
+                "decimals": 0,
+                "step": 1.0,
+                "value": 50.0
+            }
+        },
+        {
+            "name": "is_hypertension",
+            "widget_type": "QCheckBox",
+            "properties": {
+                "text": "*ON if True",
+                "checked": true
+            }
+        }
+    ]
+}

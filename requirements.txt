@@ -1,0 +1,2 @@
+numpy==1.26.2
+-e git+https://github.com/ecci-cvs/openep-py.git@940f8476aecfaceeec348e13006da94d599dd13c#egg=OpenEp
