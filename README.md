@@ -10,8 +10,9 @@ This model is for demonstration only and is not intended for clinical use.
 
 ## Pre-requisites
 
+- **EP Workbench** is installed [see guide](https://openep.discourse.group/t/downloading-ep-workbench-beta-for-academic-use/149)
 - **Conda** (or your preferred Python environment) is installed.
-- **openep-py** is installed.
+- **openep-py** python library is installed [repo](https://github.com/ecci-cvs/openep-py).
 
 
 ## How to Install a WIP
